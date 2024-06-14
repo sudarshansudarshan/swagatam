@@ -1,0 +1,514 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+.layout_padding {
+  padding: 90px 0;
+}
+
+.layout_padding2 {
+  padding: 75px 0;
+}
+
+.layout_padding2-top {
+  padding-top: 75px;
+}
+
+.layout_padding2-bottom {
+  padding-bottom: 75px;
+}
+
+.layout_padding-top {
+  padding-top: 90px;
+}
+
+.layout_padding-bottom {
+  padding-bottom: 90px;
+}
+
+.heading_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.heading_container h2 a {
+  text-decoration: none;
+  color: #4c4d4d;
+  /* WhatsApp green color */
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.3s;
+}
+
+.heading_container h2 span {
+  color: #4c4d4d;
+}
+
+.heading_container p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.heading_container.heading_center {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+}
+
+ .heading_container h2 a:hover {
+   color: #128C7E;
+   /* Darker green */
+ }
+
+ .heading_container h2 a i {
+   margin-right: 8px;
+ }
+
+ .heading_container h2 a {
+   color: inherit !important;
+   text-decoration: none !important;
+   background-color: transparent !important;
+  color: #4c4d4d !important;
+ }
+
+ .heading_container h2 a:hover {
+   text-decoration: none !important;
+  color: #1dc403 !important;}
+
+.heading_container h2 {
+  position: relative;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+/* Style for Linktree icon */
+.heading_container a.linktree svg {
+  fill: #4c4d4d !important;
+  /* Green color for Linktree icon */
+  width: 1em!important;
+  height: 1em!important;
+  margin-right: 5px!important;
+  /* Adjust spacing between icon and text */
+}
+
+/* Style for Linktree text */
+.heading_container a.linktree {
+  text-decoration: none !important;
+  color: #4c4d4d !important;
+  /* Green color for Linktree text */
+  transition: color 0.3s;
+  /* Smooth transition for color change on hover */
+}
+
+/* Hover styles for Linktree text */
+.heading_container a.linktree:hover {
+  color: #03ab5f !important;
+  /* Darker green color on hover */
+}
+/* Instagram link styles */
+.heading_container a.instagram {
+    color: #4c4d4d !important; /* Black text color for Instagram */
+}
+
+/* .heading_container a.instagram i {
+    color: #4c4d4d !important; /* Instagram pink color }*/ 
+
+
+/* YouTube link styles */
+.heading_container a.youtube {
+    color: #4c4d4d !important; /* Red text color for YouTube */
+}
+
+/* .heading_container a.youtube i {
+    color: #4c4d4d !important;/* YouTube red color} */
+ 
+
+/* Hover styles for link text */
+.heading_container a.youtube:hover {
+  color: #FF0000 !important;
+  /* Change text color to blue on hover for Instagram */
+}
+/* Hover styles for link text */
+.heading_container a.instagram:hover {
+    color: #eb1c91 !important; /* Change text color to blue on hover for Instagram */
+}
+
+.heading_container a.youtube:hover {
+    color: #FF0000 !important; /* Change text color to blue on hover for YouTube */
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: initial;
+}
+
+.btn,
+.btn:focus {
+  outline: none !important;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+/*header section*/
+.hero_area {
+  position: relative;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+
+/* Style for the horizontal line */
+.section_separator {
+    border: none; /* Remove default border */
+    border-top: 1px solid #878787d8; /* Add a 1px solid grey border for the horizontal line */
+    margin: 20px 0; /* Adjust margin as needed */
+}
+
+/*end header section*/
+/* slider section */
+.slider_section {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+}
+
+.slider_section .slider_bg_box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.slider_section .slider_bg_box img {
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  
+}
+
+.slider_section .slider_bg_box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(37, 37, 37, 0.9)), to(rgba(37, 37, 37, 0.082)));
+  background: linear-gradient(to right, rgba(37, 37, 37, 0.9) 0%, rgba(37, 37, 37, 0.7) 40%, rgba(37, 37, 37, 0.4) 60%, rgba(37, 37, 37, 0.082) 100%);
+}
+
+.slider_section .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.slider_section #customCarousel1 {
+  width: 100%;
+  position: unset;
+}
+
+.slider_section .detail-box {
+  color: #04233b;
+}
+
+.slider_section .detail-box h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+.slider_section .detail-box p {
+  color: #fefefe;
+  font-size: 14px;
+}
+
+.slider_section .detail-box .btn-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 -5px;
+  margin-top: 25px;
+}
+
+.slider_section .detail-box .btn-box a {
+  margin: 5px;
+  text-align: center;
+  width: 165px;
+}
+
+.slider_section .detail-box .btn-box .btn1 {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #03a7c4;
+  color: #ffffff;
+  border-radius: 0;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  border: none;
+}
+
+.slider_section .detail-box .btn-box .btn1:hover {
+  background-color: #065968;
+}
+
+.slider_section .detail-box .btn-box .btn2 {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 0;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  border: none;
+}
+
+.slider_section .detail-box .btn-box .btn2:hover {
+  background-color: black;
+}
+
+.slider_section .carousel-indicators {
+  position: unset;
+  margin: 0;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 45px;
+}
+
+.slider_section .carousel-indicators li {
+  background-color: #ffffff;
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  opacity: 1;
+}
+
+.slider_section .carousel-indicators li.active {
+  width: 20px;
+  height: 20px;
+  background-color: #03a7c4;
+}
+
+.service_section {
+  position: relative;
+}
+
+.service_section .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 45px;
+  background-color: #f8f8f9;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.service_section .box .img-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  width: 125px;
+  min-width: 75px;
+  height: 75px;
+  margin-right: 25px;
+}
+
+.service_section .box .img-box img {
+  max-width: 100%;
+  max-height: 100%;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.service_section .box .detail-box h5 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.service_section .box .detail-box a {
+  color: #03a7c4;
+  font-weight: 600;
+}
+
+.service_section .box .detail-box a:hover {
+  color: #026c7e;
+}
+
+.about_section .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.about_section .img-box {
+  position: relative;
+}
+
+.about_section .img-box img {
+  max-width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.about_section .img-box::before, .about_section .img-box::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 45px;
+  height: 70%;
+  /* background-color: #cd8d02; */
+  z-index: 3;
+}
+
+.about_section .img-box::before {
+  left: 0;
+  z-index: 1;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.about_section .img-box::after {
+  right: 0;
+  z-index: 1;
+  -webkit-transform: translate(50%, -50%);
+          transform: translate(50%, -50%);
+}
+
+.about_section .detail-box p {
+  color: #1f1f1f;
+  margin-top: 15px;
+}
+
+.about_section .detail-box a {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #03a7c4;
+  color: #ffffff;
+  border-radius: 0px;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  border: none;
+  margin-top: 15px;
+}
+
+.about_section .detail-box a:hover {
+  background-color: #065968;
+}
+
+/* FAQ Section */
+.faq {
+  position: relative;
+}
+
+.faq .heading_container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.faq .heading_container h2 {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.faq .heading_container h2 span {
+  color: #1dc403;
+}
+
+.faq-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.faq-item {
+  background-color: #f8f8f9;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #e1e1e1;
+  transition: all 0.3s ease;
+}
+
+.faq-item .btn-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #333;
+  text-decoration: none;
+  padding: 0;
+}
+
+.faq-item .btn-link:hover {
+  color: #03a7c4;
+}
+
+.faq-item .collapse {
+  margin-top: 15px;
+}
+
+.faq-item .faq-answer {
+  color: #666;
+  line-height: 1.6;
+}
+/* FAQ Section Heading */
+.faq .faq-heading span {
+  color: rgb(43, 53, 243) !important;
+}
+/* Add smooth transition effect */
+.faq-item .collapse {
+  transition: height 0.3s ease;
+}
+
+/* FAQ Item hover effect */
+.faq-item:hover {
+  border-color: #03a7c4;
+}
