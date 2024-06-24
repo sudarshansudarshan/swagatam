@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+<!--
 <table>
     <tr>
         <th>Announcements</th>
@@ -30,3 +30,4 @@ layout: home
 
 
 </table>
+-->
