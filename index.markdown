@@ -6,7 +6,7 @@ layout: home
 ---
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
-We will cover everything 🙂. You will be our guest. This is sponsored by IIT Ropar :). You should pay a safety deposit of Rs. 1000/- which will be refunded in two days.
+We will cover everything. You will be our guest. This is sponsored by IIT Ropar :). You should pay a safety deposit of Rs. 1000/- which will be refunded in two days.
 
 
 **2. What is the limit of Students who can attend this workshop?**
@@ -19,7 +19,7 @@ Parents are welcome to join their kids. But they should manage accommodation out
 
 **4. How does the accommodation work during the workshop?**
 
-All the students will be provided with shared accommodation. They will get a good glimpse of what it means to stay in the hostels of an IIT :)
+All the students will be provided with shared accommodation. They will get a good glimpse of what it means to stay in the hostels of an IIT.
 
 
 
