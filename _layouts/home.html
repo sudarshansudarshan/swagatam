@@ -1,0 +1,172 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Vicharana Shala</title>
+  <style>
+    body {
+      font-family: 'Roboto Medium', sans-serif; /* Use Roboto font or any other preferred font */
+      font-size: 16px;
+      line-height: 1.6;
+      color: #000000; /* Default text color */
+      margin: 0;
+      padding: 0;
+      background-image: url('');
+      background-size: cover; /* Cover the entire viewport */
+      background-position: center; /* Center the background image */
+      <!-- background-color: #ffdbac;-->
+    }
+    }
+
+    .home {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .navigation {
+      margin-bottom: 20px;
+    }
+
+    .navigation ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .navigation ul li {
+      display: inline;
+      margin-right: 20px;
+    }
+
+    .navigation ul li a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    .navigation ul li a:hover {
+      color: #ff6600; /* Change color on hover */
+    }
+
+    .hero-section {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .hero-image {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .hero-text {
+      margin-top: 20px;
+    }
+
+    .hero-text h2 {
+      font-size: 2.5em; /* Larger font size for heading */
+      margin-bottom: 10px;
+      color: #333;
+    }
+
+    .hero-text p {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+      color: #666;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #ff6600; /* Button background color */
+      color: #fff; /* Button text color */
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #ff9933; /* Change color on hover */
+    }
+
+    .post-list-heading {
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+
+    .post-list li {
+      margin-bottom: 20px;
+    }
+
+    .post-meta {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .post-link {
+      color: #333;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .post-link:hover {
+      color: #ff6600; /* Change color on hover */
+    }
+  </style>
+</head>
+<body>
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}  </h1>
+  {%- endif -%}
+
+
+  <div class="hero-section">
+    <div class="hero-text">
+      <h2 style="color: black;"><b>Welcome to AI Vicharana Shala</b></h2>
+    <p style="color: black; font-style: italic; font-family: cursive;">Empowering the next generation of AI enthusiasts</p>
+    <img src="images/hero-image.jpeg" alt="AI Vicharana Shala" class="hero-image" width="300" height="500">
+    <br><br>
+      <a href="assets/AI Vicharana Shala Brochure.pdf" class="btn">Brochure</a>    
+      <a href="http://bit.ly/AIVS_Bootcamp" class="btn">Click to Register</a>
+    </div>
+  </div>
+  
+ 
+  {{ content }}
+
+ <!-- {%- if site.posts.size > 0 -%}
+    <div class="recent-posts">	
+      <h1 class="post-list-heading">Recent Posts</h1>
+      <ul class="post-list">
+        {%- for post in site.posts limit: 1 -%}
+        <li>-->
+        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
+            <a class="post-link" href="/aicamp/dashboard/">
+              <h6>
+              Matrix Mystics
+              </h6>
+            </a> -->
+          
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+      <!-- <a href="" class="btn">View All Posts</a> -->
+    </div>
+  {%- endif -%}
+
+  
+</div>
+</body>
+</html>
+
+
