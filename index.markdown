@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# FAQ
+## FAQ
 
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
