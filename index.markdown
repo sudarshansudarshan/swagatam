@@ -18,7 +18,7 @@ Join our specially designed in-person workshop for JEE Advanced cleared candidat
 ### Key Details:
 
 - **Reporting Time**: Friday, 28th June, 5:30 PM
-- **Departure**: Sunday, 30th June, 6:00 PM
+- **Departure**: Sunday, 30th June, 6:00 PM (You are free to stay the sunday night here and leave the campus in the morning on Monday)
 
 [Register Here](https://docs.google.com/forms/d/e/1FAIpQLScaomoCF4aIrdPlpgejMGzCEtf-D7itkJjcO7wFm-7XWe-Cjg/viewform?usp=sf_link)
 
