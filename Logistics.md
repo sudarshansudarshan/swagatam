@@ -24,7 +24,5 @@ title: Arriving at IIT Ropar
 
 6. *Accommodation  and Mess Facilities:*
 * You will be provided Rooms (on sharing basis) in the hostels. 
-* As the weather is very hot and humid, it is preferred not to use any mattress. Still, if you want, then we can procure you at a very reasonable cost. [Link](https://docs.google.com/forms/d/e/1FAIpQLScDRnPN9NMS9YDPGj-XTCvA1LVgg9BobsE2vraBYACNSL16EA/viewform?usp=sf_link) for the Google Form to apply for a mattress.
-* Note that the mess for all students will be Shivalik Mess.
 
 
