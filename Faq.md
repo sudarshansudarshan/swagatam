@@ -31,17 +31,17 @@ No, we regret to inform you that *the travel fee is not reimbursed* and is not i
 
 **7. The scorecards of the JEE Advanced are yet to be released. How do I add proof of my scorecard?**
 
-If *the scorecards are yet to be released, you can **submit a screenshot* of your scorecard. This will suffice as proof of your eligibility. Once the official scorecards are available, you can update your submission if required. We want to ensure everyone who qualifies has the opportunity to participate.
+If **the scorecards are yet to be released, you can submit a screenshot** of your scorecard. This will suffice as proof of your eligibility. Once the official scorecards are available, you can update your submission if required. We want to ensure everyone who qualifies has the opportunity to participate.
 
 **8. Can we join the workshop even if we are joining any other IIT?**
 
-Yes, indeed! We would *appreciate if you join an IIT other than IIT Ropar* but still attend the workshop. This will give you hands-on experience of being in a different IIT and help you learn about the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
+Yes, indeed! We would **appreciate if you join an IIT other than IIT Ropar** but still attend the workshop. This will give you hands-on experience of being in a different IIT and help you learn about the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
 
 **9. How do we pay the fee for the workshop?**
 
-The procedure will be communicated as soon as the final list of students is declared. So, *stay tuned* and *keep an eye on the emails* you receive. We will provide detailed instructions to ensure a smooth and hassle-free payment process.
+The procedure will be communicated as soon as the final list of students is declared. So, **stay tuned** and **keep an eye on the emails** you receive. We will provide detailed instructions to ensure a smooth and hassle-free payment process.
 
 **10. When is the list of selected students released?**
 
-*Very soon!* As mentioned, go through your emails and you may find the news soon. We are working diligently to finalize the list and will notify all selected students promptly. Keep checking your inbox for updates.
+**Very soon!** As mentioned, go through your emails and you may find the news soon. We are working diligently to finalize the list and will notify all selected students promptly. Keep checking your inbox for updates.
 
