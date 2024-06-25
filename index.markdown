@@ -57,11 +57,11 @@ All students will be provided with **shared accommodation**. They will get a goo
 
 **5. Is online mode available for the workshop or is it totally offline?**
 
-*The workshop is also available for students in online mode. You'll get to know about this soon, so **stay tuned*! Whether you prefer to join us in person or from the comfort of your home, we've got you covered.
+The workshop is also available for students in **online mode**. You'll get to know about this soon, so **stay tuned**! Whether you prefer to **join us in person or from the comfort of your home**, we've got you covered.
 
 **6. Is the travel fee reimbursed?**
 
-No, we regret to inform you that *the travel fee is not reimbursed* and is not included in the safety deposit of *Rs. 1000*. We understand this might be inconvenient, and we are considering ways to address this for future workshops. For now, please plan your travel accordingly.
+No, we regret to inform you that **the travel fee is not reimbursed** and is not included in the safety deposit of **Rs. 1000**. We understand this might be inconvenient, and we are considering ways to address this for future workshops. For now, please plan your travel accordingly.
 
 **7. The scorecards of the JEE Advanced are yet to be released. How do I add proof of my scorecard?**
 
@@ -78,6 +78,5 @@ The procedure will be communicated as soon as the final list of students is decl
 **10. When is the list of selected students released?**
 
 **Very soon!** As mentioned, go through your emails and you may find the news soon. We are working diligently to finalize the list and will notify all selected students promptly. Keep checking your inbox for updates.
-
 
 ---
