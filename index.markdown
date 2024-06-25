@@ -41,18 +41,19 @@ Join our specially designed in-person workshop for JEE Advanced cleared candidat
 
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
-We will cover everything. You will be our guest. This is sponsored by IIT Ropar. You should pay a safety deposit of Rs. 1000, which will be refunded within two days.
+This initiative is completely **free of charge**. We've got everything covered for you. You'll be our guest! A **refundable safety deposit of Rs. 1000** is required, which will be returned within two days. Rest assured, there's **no fee for accommodation or food**.
 
 **2. What is the limit on the number of students who can attend this workshop?**
 
-We are trying to accommodate as many students as possible. There is no fixed cap. We will make a decision based on the number of participants.
+Don't worry about the details—just **pack your bags and get ready to join us**! There's **no fixed limit** on the number of students we can accommodate. **Your enthusiasm determines how many can be enrolled**. We aim to **welcome as many students as possible**!
 
 **3. Can parents come, or should only the students attend alone?**
 
-Parents are welcome to join their kids, but they should arrange their own accommodation outside the campus. There are a few good hotels in the Ropar district.
+**Parents are welcome** to visit and see what their students are learning here. However, please note that **their accommodation and food are not included** in the Rs. 1000 safety deposit. There are **great hotels around IIT Ropar** for a comfortable stay, and plenty of **dining options in the cafeteria or nearby**.
 
 **4. How does the accommodation work during the workshop?**
 
-All students will be provided with shared accommodation. They will get a good glimpse of what it means to stay in the hostels of an IIT.
+All students will be provided with **shared accommodation**. They will get a good glimpse of what it means to **stay in the hostels of an IIT** and develop a strong sense of **friendship with their roommates**.
+
 
 ---
