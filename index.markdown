@@ -4,6 +4,10 @@
 
 layout: home
 ---
+
+# FAQ
+
+
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
 We will cover everything. You will be our guest. This is sponsored by IIT Ropar :). You should pay a safety deposit of Rs. 1000/- which will be refunded in two days.
