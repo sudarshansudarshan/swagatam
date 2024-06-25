@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![alt text](/_images/hero-image.jpeg)
+
 
 We are excited to invite you to our specially designed in-person workshop, **"The Joy of Computing," at IIT Ropar!** This immersive experience is exclusively for candidates who have cleared JEE Advanced and is a **_sponsored workshop, free of cost for all JEE Advanced cleared students_**.
 
