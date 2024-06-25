@@ -20,7 +20,6 @@ layout: default
       background-position: center; /* Center the background image */
       <!-- background-color: #ffdbac;-->
     }
-    }
 
     .home {
       max-width: 800px;
@@ -121,55 +120,40 @@ layout: default
 <body>
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}  </h1>
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
 
   <div class="hero-section">
     <div class="hero-text">
       <h2 style="color: black;"><b>The Joy Of Computing - Workshop at IIT Ropar</b></h2>
-    <p style="color: black; font-style: italic; font-family: cursive;">In Person Workshop at IIT Ropar - Discover the Joy of Computing!
-</p>
-<img src="_images/hero-image (1).jpeg" alt="img" class="hero-image"  > 
-<!--       <img src="_images/joc.jpg" alt="image" class="hero-image" width="300" height="500"> -->
-    <br><br>
-<!--       <h3 style="color: black;"><b><u>FAQ</u></b></h3> -->
-<!--       <a href="assets/AI Vicharana Shala Brochure.pdf" class="btn">Brochure</a>     -->
-<!--       <a href="http://bit.ly/AIVS_Bootcamp" class="btn">Click to Register</a> -->
+      <p style="color: black; font-style: italic; font-family: cursive;">
+        In Person Workshop at IIT Ropar - Discover the Joy of Computing!
+      </p>
+      <img src="{{ site.baseurl }}/_images/joc.jpg" alt="The Joy Of Computing" class="hero-image">
     </div>
   </div>
-  
- 
+
   {{ content }}
 
- <!-- {%- if site.posts.size > 0 -%}
-    <div class="recent-posts">	
+  {%- if site.posts.size > 0 -%}
+    <div class="recent-posts">
       <h1 class="post-list-heading">Recent Posts</h1>
       <ul class="post-list">
         {%- for post in site.posts limit: 1 -%}
-        <li>-->
-        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-            <a class="post-link" href="/aicamp/dashboard/">
-              <h6>
-              Matrix Mystics
-              </h6>
-            </a> -->
-          
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h6>{{ post.title }}</h6>
+          </a>
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
           {%- endif -%}
         </li>
         {%- endfor -%}
       </ul>
-      <!-- <a href="" class="btn">View All Posts</a> -->
     </div>
   {%- endif -%}
-
-  
 </div>
 </body>
 </html>
-
-
