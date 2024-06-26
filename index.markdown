@@ -39,6 +39,11 @@ Join our specially designed in-person workshop for JEE Advanced cleared candidat
 
 ## FAQ
 
+**I wanted to ask if we do bring a laptop with us, is it allowed in the hostels?**
+
+No electronics is required :). Travel minimally please :-). If possible get an umbrella.
+
+
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
 This initiative is completely **free of charge**. We've got everything covered for you. You'll be our guest! A **refundable safety deposit of Rs. 1000** is required, which will be returned within two days. Rest assured, there's **no fee for accommodation or food**.
