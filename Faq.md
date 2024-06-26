@@ -19,7 +19,7 @@ The number is tentative. We are planning to accommodate as many as possible. If 
 
 **4. How does the accommodation work during the workshop?**
 
-All students will be provided with **shared accommodation**. They will get a good glimpse of what it means to **stay in the hostels of an IIT** and develop a strong sense of **friendship with their roommates**.  
+All students will be provided with **shared accommodation** in the student hostel. They will get a good glimpse of what it means to **stay in the hostels of an IIT** and develop a strong sense of **friendship with their roommates**.  
 
 **5. Is online mode available for the workshop or is it totally offline?**
 
@@ -27,7 +27,7 @@ The workshop is also available for students in **online mode**. You'll get to kn
 
 **6. Is the travel fee reimbursed?**
 
-No, we regret to inform you that **the travel fee is not reimbursed** and is not included in the safety deposit of **Rs. 1000**. We understand this might be inconvenient, and we are considering ways to address this for future workshops. For now, please plan your travel accordingly.
+No, we regret to inform you that we wont be able to reimburse your travel fund. 
 
 **7. The scorecards of the JEE Advanced are yet to be released. How do I add proof of my scorecard?**
 
