@@ -15,7 +15,7 @@ The number is tentative. We are planning to accommodate as many as possible. If 
 
 **3. Can parents come, or should only the students attend alone?**
 
-**Parents are welcome** to visit and see what their students are learning here. However, please note that **their accommodation and food are not included** in the Rs. 1000 safety deposit. There are **great hotels around IIT Ropar** for a comfortable stay, and plenty of **dining options in the cafeteria or nearby**.
+**Parents are welcome** to visit the campus. However, please note that **their accommodation and food are to be managed by themselves**. There are **great hotels around IIT Ropar** for a comfortable stay, and plenty of **dining options in the cafeteria or nearby**.
 
 **4. How does the accommodation work during the workshop?**
 
