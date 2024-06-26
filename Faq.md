@@ -7,11 +7,11 @@ order: 2
 
 **1. Is there a fee for accommodations and food, or are they included in the workshop?**
 
-This initiative is completely **free of charge**. We've got everything covered for you. You'll be our guest! A **refundable safety deposit of Rs. 1000** is required, which will be returned within two days. Rest assured, there's **no fee for accommodation or food**.
+This initiative is sponsored by IIT Ropar and is exclusively meant for the meritorious students with a good CRL rank in JEE. We've got everything covered for you. Be our guest! A **refundable safety deposit of Rs. 1000** is required, which will be returned within two days. Food and accommodation charges for the student will be borne by us.
 
 **2. What is the limit on the number of students who can attend this workshop?**
 
-Don't worry about the details—just **pack your bags and get ready to join us**! There's **no fixed limit** on the number of students we can accommodate. **Your enthusiasm determines how many can be enrolled**. We aim to **welcome as many students as possible**!
+The number is tentative. We are planning to accommodate as many as possible. If you have received an email stating that you are selected, please pack your bags and arrive on time :-)
 
 **3. Can parents come, or should only the students attend alone?**
 
