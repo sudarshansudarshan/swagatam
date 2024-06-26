@@ -8,9 +8,11 @@ order: 2
 **1. Is it required to bring any required electronic device for the workshop?**
 
 Electronic devices are not required for the workshop, as we aim for a complete detox from electronic gadgets. This will allow participants to fully engage with the hands-on activities and discussions.
+
 **2. Is there a fee for accommodations and food, or are they included in the workshop?**
 
 There is no fee for accommodation or food, as they are included in the workshop. This initiative is completely free of charge, with all expenses covered. A refundable safety deposit of Rs. 1000 is required, which will be returned within two days after the completion of the workshop.
+
 **3. What is the limit on the number of students who can attend this workshop?**
 
 While we strive to welcome as many students as possible, please note that we have a limited number of seats available. We encourage early registration to secure your spot in the workshop.
