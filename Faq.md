@@ -23,11 +23,11 @@ Parents are welcome to visit with us and observe the learning atmosphere of IIT 
 
 **5. What are the accommodation arrangements during the workshop?**
 
-During the workshop, all students will be provided with shared accommodation. This setup offers them a genuine experience of staying in the hostels at IITs and fosters strong bonds with their roommates.**.  
+During the workshop, all students will be provided with shared accommodation. This setup offers them a genuine experience of staying in the hostels at IITs and fosters strong bonds with their roommates.  
 
 **6. Will there be an online mode also for the workshop?**
 
-The workshop will also be offered in an **online mode**. Further information regarding the online mode will be communicated shortly, so please **stay tuned**! Whether you opt to **participate in person or remotely from your home**, we have options available to accommodate your preferences.
+The workshop will also be offered in an online mode. Further information regarding the online mode will be communicated shortly, so please stay tuned! Whether you opt to participate in person or remotely from your home, we have options available to accommodate your preferences.
 
 **7. Is the travel fee reimbursed?**
 
@@ -35,20 +35,20 @@ No, we regret to inform you that the travel charges are not reimbursed.We recogn
 
 **8. The scorecards of the JEE Advanced are yet to be released. How do I add proof of my scorecard?**
 
-If **the scorecards have not been released yet**, you may submit a screenshot of your scorecard as proof of your eligibility. This will suffice until the official scorecards are available, allowing you to update your submission if necessary. Our goal is to ensure that all qualifying individuals have the chance to participate.
+If the scorecards have not been released yet, you may submit a screenshot of your scorecard as proof of your eligibility. This will suffice until the official scorecards are available, allowing you to update your submission if necessary. Our goal is to ensure that all qualifying individuals have the chance to participate.
 
 **9. Can we join the workshop even if we are joining any other IIT?**
 
-Certainly! **Attending the workshop at an IIT Ropar ** would provide you with hands-on experience at a different institution and allow you to explore the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
+Certainly! Attending the workshop at an IIT Ropar would provide you with hands-on experience at a different institution and allow you to explore the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
 
 **10. How do we pay the fee for the workshop?**
 
-The procedure will be communicated via email once the final list of students is declared. Therefore, **stay tuned** and **monitor the emails** you receive. We will provide detailed instructions to ensure a seamless and straightforward payment process.
+The procedure will be communicated via email once the final list of students is declared. Therefore, stay tuned and monitor the emails you receive. We will provide detailed instructions to ensure a seamless and straightforward payment process.
 
 **11. When is the list of selected students released?**
 
-**Notification emails will be sent to the shortlisted students**. Please check your email regularly as you may receive the notification soon. We are actively finalizing the list and will promptly inform all selected students.
+Notification emails will be sent to the shortlisted students. Please check your email regularly as you may receive the notification soon. We are actively finalizing the list and will promptly inform all selected students.
 
 **12. I am uncertain about attending the workshop offline. Should I proceed with the payment of the Rs1000 security deposit?**
 
-**Making the security deposit is crucial for accurately estimating the number of attendees. Please make the payment only if you are certain about attending the workshop. This measure is essential to minimize food wastage and facilitate effective planning.
+Making the security deposit is crucial for accurately estimating the number of attendees. Please make the payment only if you are certain about attending the workshop. This measure is essential to minimize food wastage and facilitate effective planning.
