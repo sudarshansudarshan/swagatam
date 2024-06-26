@@ -1,7 +1,10 @@
+---
 layout: page
 title: FAQ
 permalink: /faq/
 order: 2
+---
+
 1. Is there a fee for accommodations and food, or are they included in the workshop?
 
 This initiative is sponsored by IIT Ropar and is exclusively for meritorious students with a good CRL rank in JEE. We've got everything covered for you. Be our guest! A refundable safety deposit of Rs. 1000 is required, which will be returned within two days. Food and accommodation charges for the student will be borne by us.
