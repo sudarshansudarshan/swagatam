@@ -85,3 +85,8 @@ The procedure will be communicated as soon as the final list of students is decl
 **11. When is the list of selected students released?**
 
 **Very soon!** As mentioned, go through your emails and you may find the news soon. We are working diligently to finalize the list and will notify all selected students promptly. Keep checking your inbox for updates.
+
+**12. Sir I am not really sure if I can attend the workshop offline, should I pay the security deposit of Rs1000?**
+
+Making the security deposit helps us keep an exact head count of students. Please only make the payment if you are certain you will attend the workshop. This helps prevent food wastage and ensures proper planning.
+
