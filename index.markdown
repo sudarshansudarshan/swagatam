@@ -76,7 +76,7 @@ If the scorecards have not been released yet, you may submit a screenshot of you
 
 **9. Can we join the workshop even if we are joining any other IIT?**
 
-Certainly! Attending the workshop at an IIT Ropar would provide you with hands-on experience at a different institution and allow you to explore the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
+Certainly! Attending the workshop at IIT Ropar would provide you with hands-on experience at a different institution and allow you to explore the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
 
 **10. How do we pay the fee for the workshop?**
 
