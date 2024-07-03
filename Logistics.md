@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arriving at IIT Ropar
+permalink: /Logistics/
 ---
 1. Thouroughly go through the FAQs and the Code of Conduct (on the Handbook page) while starting with the course.
 
