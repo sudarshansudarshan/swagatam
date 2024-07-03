@@ -5,9 +5,9 @@
 layout: page
 ---
 <h2 style="color: black;"><b>The Joy Of Computing - Workshop at IIT Ropar</b></h2>
-      <p style="color: black; font-style: italic; font-family: cursive;">
+      <h4 style="color: black; font-style: italic; font-family: cursive;">
         In-Person Workshop at IIT Ropar - Discover the Joy of Computing!
-      </p>
+      </h4>
       
 ![joy of computing](images/joc.jpg)
 
