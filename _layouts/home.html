@@ -6,7 +6,7 @@ layout: default
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Joy Of Computing</title>
+  <title>Swagatam</title>
   <style>
     body {
       font-family: 'Roboto Medium', sans-serif; /* Use Roboto font or any other preferred font */
@@ -15,17 +15,23 @@ layout: default
       color: #000000; /* Default text color */
       margin: 0;
       padding: 0;
-      background-image: url('');
-      background-size: cover; /* Cover the entire viewport */
-      background-position: center; /* Center the background image */
+      width: 100%;
+      /*background-image: url('images/bgg1.png');
+      background-size: contain; /* Set the width and height of the background image */
+      /*background-repeat: no-repeat;
+      background-position: center top;
+       /* Center the background image */
       <!-- background-color: #ffdbac;-->
     }
-    }
-
-    .home {
-      max-width: 800px;
+  /*.home {
+      max-width: 100%;
       margin: 0 auto;
-      padding: 20px;
+      padding: 10px;
+    }*/
+    .home {
+      max-width: 100%;
+      margin: 0 auto;
+      padding: 10px;
     }
 
     .navigation {
@@ -49,13 +55,23 @@ layout: default
       font-weight: bold;
     }
 
-    .navigation ul li a:hover {
+    .navigation li a:hover {
       color: #ff6600; /* Change color on hover */
     }
 
     .hero-section {
-      text-align: center;
-      margin-bottom: 40px;
+      width: 100%;
+      height: 100vh; /* Adjust height as needed */
+      background-image: url('images/bgg1.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center top;
+      display: flex;
+      align-items: center; /* Center content vertically */
+      justify-content: left; /* Center content horizontally */
+      color: white; /* Set default text color */
+      text-align: center; /* Center text */
+      /* margin-top: 100px; */
     }
 
     .hero-image {
@@ -70,27 +86,27 @@ layout: default
     .hero-text h2 {
       font-size: 2.5em; /* Larger font size for heading */
       margin-bottom: 10px;
-      color: #333;
+      color: #FFFFFF;
     }
 
     .hero-text p {
       font-size: 1.2em;
       margin-bottom: 20px;
-      color: #666;
+      color: #FFFFFF;
     }
 
     .btn {
       display: inline-block;
       padding: 10px 20px;
-      background-color: #ff6600; /* Button background color */
-      color: #fff; /* Button text color */
+      background-color: #00BFFF;
+      color: #fff;
       text-decoration: none;
       border-radius: 5px;
       transition: background-color 0.3s;
     }
 
     .btn:hover {
-      background-color: #ff9933; /* Change color on hover */
+      background-color: #008CBA;
     }
 
     .post-list-heading {
@@ -116,30 +132,41 @@ layout: default
     .post-link:hover {
       color: #ff6600; /* Change color on hover */
     }
+
+    .content {
+            text-align: left;
+    }
+
+    .svg-icon {
+      width: 16px;
+      height: 16px;
+    }
+
+
   </style>
 </head>
 <body>
 <div class="home">
-  {%- if page.title -%}
+  <!--{%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}  </h1>
-  {%- endif -%}
+  {%- endif -%}-->
 
 
-  <div class="hero-section">
-    <div class="hero-text">
-      <h2 style="color: black;"><b>The Joy Of Computing - Workshop at IIT Ropar</b></h2>
-      <p style="color: black; font-style: italic; font-family: cursive;">
-        In-Person Workshop at IIT Ropar - Discover the Joy of Computing!
+  <div class="hero-section" style="width: 100%; height: 100vh; background-image: url('images/bgg1.png'); background-size: contain; background-repeat: no-repeat; background-position: center top;">
+    <div class="content" style="padding-left: 170px;">
+      <h2 style="color: white;"><b> SWAGATAM TO IIT ROPAR </b></h2>
+      <p style="color: white;">
+        Welcome to IIT Ropar, where new students are greeted with open arms <br> and an array of orientation
+        programs designed to help them integrate <br> seamlessly into campus life and feel at home in no time.
       </p>
-<!--     <img src="images/joc.jpg" alt="AI Vicharana Shala" class="hero-image" width="512" height="512"> -->
-    <br><br>
-<!--       <a href="assets/AI Vicharana Shala Brochure.pdf" class="btn">Brochure</a>    
-      <a href="http://bit.ly/AIVS_Bootcamp" class="btn">Click to Register</a> -->
+      
+      <a href="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view" class="btn">Campus Video</a>    
     </div>
   </div>
   
- 
+  <div class="content" style="padding-left: 170px; padding-right: 170px ;">
   {{ content }}
+  </div>
 
  <!-- {%- if site.posts.size > 0 -%}
     <div class="recent-posts">	

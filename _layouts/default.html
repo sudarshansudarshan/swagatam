@@ -1,25 +1,37 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-   {%- include head.html -%} 
-   <!-- <style>
-        body {
-            background-color: #ffdbac;
-        }
-    </style> -->
-  <body >
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {%- include head.html -%} 
+  <style>
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
 
-<!--     {%- include header.html -%} -->
+    .wrapper {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    main.page-content {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+  </style>
+  <body>
+    <!--{%- include header.html -%}-->
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
-	<!-- The following code is commented out to remove the footer information in the default page.-->	
+    <!-- The following code is commented out to remove the footer information in the default page.-->  
 
   </body>
-
 </html>
-
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
