@@ -27,9 +27,9 @@
 
 
 
-header_pages:
-  - Faq.md
-  - Logistics.md
+# header_pages:
+#   - Faq.md
+#   - Logistics.md
 
 # header:
 #   dropdown_menu:
