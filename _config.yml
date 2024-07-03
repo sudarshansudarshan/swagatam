@@ -27,9 +27,9 @@
 
 
 
-# header_pages:
-#   - Faq.md
-#   - Logistics.md
+header_pages:
+  - Faq.md
+  - Logistics.md
 
 # header:
 #   dropdown_menu:
@@ -46,7 +46,7 @@
 
 
 markdown: kramdown
-title: The Joy of Computing
+title: Swagatam
 # email1: aivs@iitrpr.ac.in
 # email2: ai.school@ihub-awadh.in
 # phone1: "+919205250447"
@@ -55,13 +55,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a Description for the website
 
 baseurl: /swagatam # the subpath of your site, e.g. /blog
-url: https://sudarshansudarshan.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://Ashutosh-iitrpr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #instagram_username: soni_nishit_
 #twitter_username: jekyllrb
 #github_username:  jekyll
-# youtube_username: "@Vicharana_Shala"
-# linkedin_username: "Vicharana Shala"
-# instagram_username: aivs.iitrpr
+youtube_username: "@VidyaVaniIITRopar"
+linkedin_username: "Vicharana Shala"
+instagram_username: iit_rpr_official
+# linktree_username: iitropar
 
 
 # Build settings
