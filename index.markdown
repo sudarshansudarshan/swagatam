@@ -184,7 +184,7 @@ All the forms which will be uploaded on our website on Monday, 08-07-2024 are ma
 <b> Q: What is the loan process and which document are required for taking loan? </b>
 </summary>
 <br>
-For loan and loan process please visit SBI located inside IIT Ropar.\
+For loan and loan process please visit SBI located inside IIT Ropar Campus.
 </details>
 
 
@@ -195,7 +195,7 @@ For loan and loan process please visit SBI located inside IIT Ropar.\
 <b> Q: When will we have to pay the remaining fees? </b>
 </summary>
 <br>
-The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
+The details regarding this will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
 </details>
 
 
