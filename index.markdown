@@ -107,16 +107,150 @@ The shift from JEE preparation to college life is typically quite challenging fo
 </summary>
 <br>
 
-1. Class xth certificate original and xerox
-2. Class XIIth certificate original and xerox
-3. Aadhar card Xerox and original.
-4. JEE admit card
-5. JEE branch allotment letter.
-6. Remaining Fees paid 
-7. Passport size photograph (10) and stamp size (5)
-8. Category certificate if applicable
-9. Gap certificate if applicable
-10. Medical certificate in IIT Ropar format
-11. Income certificate 
+1. Class xth certificate original and xerox<br>
+3. Class XIIth certificate original and xerox<br>
+4. Aadhar card Xerox and original.<br>
+5. JEE admit card<br>
+6. JEE branch allotment letter.<br>
+7. Remaining Fees paid <br>
+8. Passport size photograph (10) and stamp size (5)<br>
+9. Category certificate if applicable<br>
+10. Gap certificate if applicable<br>
+11. Medical certificate in IIT Ropar format<br>
+12. Income certificate <br>
 These are a tentative list of documents, and the actual list (in proper format) will be uploaded on our website (https://www.iitrpr.ac.in).
 </details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+
+<b> Q: Which banks are available in IIT Ropar? </b>
+</summary>
+<br>
+State Bank of India Ropar
+</details>
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+
+<b> Q: Where we ask questions related to Academic section? </b>
+</summary>
+<br>
+For academic section queries please use: 01881-231111, 231113, 231176 and email id officer-academics-1@iitrpr.ac.in and jr.acad@iitrpr.ac.in.
+</details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: When the details of documents to submit and other information related to admission will uploaded on IIT ropar site? </b>
+</summary>
+<br>
+The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
+</details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: When the details of documents to submit and other information related to admission will uploaded on IIT ropar site? </b>
+</summary>
+<br>
+The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
+</details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: Which hostel will be allotted to the fresher's? </b>
+</summary>
+<br>
+The allocation of the hostel is distributed. A circular regarding the same will be put on the website soon.
+</details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: Is income certificate necessary for all or is it required only if fee waiver is applicable? </b>
+</summary>
+<br>
+All the forms which will be uploaded on our website on Monday, 08-07-2024 are mandatory.
+</details>
+
+
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: What is the loan process and which document are required for taking loan? </b>
+</summary>
+<br>
+For loan and loan process please visit SBI located inside IIT Ropar.\
+</details>
+
+
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: When will we have to pay the remaining fees? </b>
+</summary>
+<br>
+The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
+</details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: Do we require original JEE Admit card or downloaded? </b>
+</summary>
+<br>
+Usually we prefer original JEE Admit card.
+</details>
+
+
+
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: How we can reach IIT Ropar? </b>
+</summary>
+<br>
+You can reach IIT Ropar using the following methods:
+
+1. By Air:
+
+The closest airport is Chandigarh International Airport, which is 56 kilometers away.
+2. By Rail:
+
+The nearest railway stations are:
+ Ropar Railway Station: Located approximately 7.5 kilometers away. From there, take an autorickshaw to the campus.
+
+ Chandigarh Railway Station: About 59 kilometers from the campus.
+
+ From Chandigarh, you can reach the campus in two ways: 
+
+1. By hiring a cab directly to the campus.
+2. By taking a bus:
+         1.1 Reach ISBT-43 (Sector 43, Chandigarh) bus stand.
+         1.2 Take a bus to Police Lines (Shagun Dhaba Bypass) or Ropar Bus Stand (Old or New).
+         1.3 From there, take an autorickshaw to the campus.
+
+ If you are coming from the Bus Stand or Police Lines in Ropar: 
+
+Take an autorickshaw to the  Main Campus, IIT Ropar.
+
+ 
+ Google Map link for IIT Ropar main campus: https://maps.app.goo.gl/Dj1Xp8Nzq7YdfjmLA
+</details>
+
+
+
+
+
+
+
+
+
+
+
