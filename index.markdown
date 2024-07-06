@@ -208,6 +208,15 @@ Usually we prefer original JEE Admit card.
 </details>
 
 
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+<b> Q: What is the mode of accommodation for the people accompanying us during registration? ? </b>
+</summary>
+<br>
+You will get a hostel room allocated on campus on the day of registration. The number of rooms in the guest house is limited, so the people accompanying you will need to arrange their own accommodation in hotels near the campus.
+</details>
+
+
 
 
 
