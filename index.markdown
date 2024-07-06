@@ -118,7 +118,7 @@ The shift from JEE preparation to college life is typically quite challenging fo
 10. Gap certificate if applicable<br>
 11. Medical certificate in IIT Ropar format<br>
 12. Income certificate <br>
-These are a tentative list of documents, and the actual list (in proper format) will be uploaded on our website (https://www.iitrpr.ac.in).
+This is a tentative list of documents. The actual list (in proper format) will be uploaded on our website (https://www.iitrpr.ac.in).
 </details>
 
 
@@ -128,7 +128,7 @@ These are a tentative list of documents, and the actual list (in proper format) 
 <b> Q: Which banks are available in IIT Ropar? </b>
 </summary>
 <br>
-State Bank of India Ropar
+State Bank of India.
 </details>
 
 <details>
@@ -143,19 +143,10 @@ For academic section queries please use: 01881-231111, 231113, 231176 and email 
 
 <details>
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
-<b> Q: When the details of documents to submit and other information related to admission will uploaded on IIT ropar site? </b>
+<b> Q: When will the details of the documents to submit and other information related to admission be uploaded on the IIT Ropar site? </b>
 </summary>
 <br>
-The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
-</details>
-
-
-<details>
-  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
-<b> Q: When the details of documents to submit and other information related to admission will uploaded on IIT ropar site? </b>
-</summary>
-<br>
-The details will be uploaded on Monday (08-07-2024) on our website https://www.iitrpr.ac.in
+The details will be uploaded on Monday, 08-07-2024, on our website https://www.iitrpr.ac.in.
 </details>
 
 
@@ -164,16 +155,16 @@ The details will be uploaded on Monday (08-07-2024) on our website https://www.i
 <b> Q: Which hostel will be allotted to the fresher's? </b>
 </summary>
 <br>
-The allocation of the hostel is distributed. A circular regarding the same will be put on the website soon.
+Hostels will be allotted randomly. A circular regarding this will be posted on the website soon.
 </details>
 
 
 <details>
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
-<b> Q: Is income certificate necessary for all or is it required only if fee waiver is applicable? </b>
+<b> Q: Is the income certificate necessary for everyone, or is it required only if a fee waiver is applicable?</b>
 </summary>
 <br>
-All the forms which will be uploaded on our website on Monday, 08-07-2024 are mandatory.
+All the forms that will be uploaded on our website on Monday, 08-07-2024, are mandatory.
 </details>
 
 
