@@ -214,9 +214,8 @@ Usually we prefer original JEE Admit card.
 <details>
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
 <b> Q: How we can reach IIT Ropar? </b>
-</summary>You can reach IIT Ropar using the following methods:
-
-    * *By Air:* The closest airport is Chandigarh International Airport, which is 56 kilometers away. 
+</summary>
+  * *By Air:* The closest airport is Chandigarh International Airport, which is 56 kilometers away. 
 
     * *By Rail:* The nearest railway stations are: Ropar Railway Station, located approximately 7.5 kilometers away (From there, take an autorickshaw to the campus) and Chandigarh Railway Station, which is about 59 kilometers from the campus.
 
