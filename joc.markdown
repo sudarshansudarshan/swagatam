@@ -7,10 +7,8 @@ layout: page
 <center><h2 style="color: black;"><b>The Joy Of Computing - Workshop at IIT Ropar</b></h2>
 <h4 style="color: black; font-style: italic; font-family: cursive;">In-Person Workshop at IIT Ropar - Discover the Joy of Computing!</h4></center>
 
-<div style="text-align: center;">
-    <img src="images/joc.jpg" alt="joy of computing" style="width: 50%;">
-</div>
-<br>
+![joy of computing](images/joc.jpg)
+
 
 We are excited to invite you to our specially designed in-person workshop, **"The Joy of Computing," at IIT Ropar!** This immersive experience is exclusively for candidates who have cleared JEE Advanced and is a **_sponsored workshop, free of cost for all JEE Advanced cleared students_**.
 
@@ -32,9 +30,8 @@ Join our WhatsApp community here:
 [WhatsApp Group](https://chat.whatsapp.com/K11JQ657WtF3mpX4jNt2XZ)
 
 
-<div style="text-align: center;">
-    <img src="images/1-1.jpg" alt="campus" style="width: 70%">
-</div>
+![campus](images/1-1.jpg)
+
 
 
 ---
@@ -96,3 +93,17 @@ Notification emails will be sent to the shortlisted students. Please check your 
 **12. I am uncertain about attending the workshop offline. Should I proceed with the payment of the Rs1000 security deposit?**
 
 Making the security deposit is crucial for accurately estimating the number of attendees. Please make the payment only if you are certain about attending the workshop. This measure is essential to minimize food wastage and facilitate effective planning.
+
+## Memories
+
+<div class="gallery">
+    
+<img src="images/img1.jpg" alt="Memory 2">
+    <img src="images/img2.jpg" alt="Memory 3">
+    <img src="images/img3.jpg" alt="Memory 4">
+    <img src="images/img4.jpg" alt="Memory 5">
+    <img src="images/img5.jpg" alt="Memory 6">
+    <img src="images/img6.jpg" alt="Memory 6">
+    <img src="images/img7.jpg" alt="Memory 6">
+    <img src="images/img8.jpg" alt="Memory 6">
+</div>
