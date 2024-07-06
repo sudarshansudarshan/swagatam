@@ -98,3 +98,25 @@ IIT Ropar stands out for several reasons that contribute to its unique identity 
 
 The shift from JEE preparation to college life is typically quite challenging for students. This initiative aimed to serve as a bridge between the students' coaching days and their college days. Engaging concepts were taught in a fun and interactive manner. Utilizing software like Geogebra, students will be presented with problems designed to enhance their understanding and encourage critical thinking. Connecting concepts, practical applications, and brainstorming that will help boost students' confidence and their ability to think critically.
 </details>
+
+
+<details>
+  <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
+
+<b> Q: Which documents are required at the time of admission? </b>
+</summary>
+<br>
+
+1. Class xth certificate original and xerox
+2. Class XIIth certificate original and xerox
+3. Aadhar card Xerox and original.
+4. JEE admit card
+5. JEE branch allotment letter.
+6. Remaining Fees paid 
+7. Passport size photograph (10) and stamp size (5)
+8. Category certificate if applicable
+9. Gap certificate if applicable
+10. Medical certificate in IIT Ropar format
+11. Income certificate 
+These are a tentative list of documents, and the actual list (in proper format) will be uploaded on our website (https://www.iitrpr.ac.in).
+</details>
