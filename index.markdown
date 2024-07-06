@@ -216,29 +216,29 @@ Usually we prefer original JEE Admit card.
 <b> Q: How we can reach IIT Ropar? </b>
 </summary>
 <br>
-You can reach IIT Ropar using the following methods:
+You can reach IIT Ropar using the following methods:<br>
 
 1. By Air:
 
-The closest airport is Chandigarh International Airport, which is 56 kilometers away.
+The closest airport is Chandigarh International Airport, which is 56 kilometers away.<br>
 2. By Rail:
 
-The nearest railway stations are:
- Ropar Railway Station: Located approximately 7.5 kilometers away. From there, take an autorickshaw to the campus.
+The nearest railway stations are:<br>
+ Ropar Railway Station: Located approximately 7.5 kilometers away. From there, take an autorickshaw to the campus.<br>
 
- Chandigarh Railway Station: About 59 kilometers from the campus.
+ Chandigarh Railway Station: About 59 kilometers from the campus.<br>
 
- From Chandigarh, you can reach the campus in two ways: 
+ From Chandigarh, you can reach the campus in two ways: <br>
 
-1. By hiring a cab directly to the campus.
-2. By taking a bus:
-         1.1 Reach ISBT-43 (Sector 43, Chandigarh) bus stand.
-         1.2 Take a bus to Police Lines (Shagun Dhaba Bypass) or Ropar Bus Stand (Old or New).
-         1.3 From there, take an autorickshaw to the campus.
+1. By hiring a cab directly to the campus.<br>
+2. By taking a bus:<br>
+         1.1 Reach ISBT-43 (Sector 43, Chandigarh) bus stand.<br>
+         1.2 Take a bus to Police Lines (Shagun Dhaba Bypass) or Ropar Bus Stand (Old or New).<br>
+         1.3 From there, take an autorickshaw to the campus.<br>
 
- If you are coming from the Bus Stand or Police Lines in Ropar: 
+ If you are coming from the Bus Stand or Police Lines in Ropar: <br>
 
-Take an autorickshaw to the  Main Campus, IIT Ropar.
+Take an autorickshaw to the  Main Campus, IIT Ropar.<br>
 
  
  Google Map link for IIT Ropar main campus: https://maps.app.goo.gl/Dj1Xp8Nzq7YdfjmLA
