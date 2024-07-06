@@ -215,18 +215,32 @@ Usually we prefer original JEE Admit card.
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
 <b> Q: How we can reach IIT Ropar? </b>
 </summary>
-  * *By Air:* The closest airport is Chandigarh International Airport, which is 56 kilometers away. 
+<br>You can reach IIT Ropar using the following methods:<br>
 
-    * *By Rail:* The nearest railway stations are: Ropar Railway Station, located approximately 7.5 kilometers away (From there, take an autorickshaw to the campus) and Chandigarh Railway Station, which is about 59 kilometers from the campus.
+1. By Air:
+<br>
+The closest airport is Chandigarh International Airport, which is 56 kilometers away.<br>
+2. By Rail:<br>
 
-    From Chandigarh, you can reach the campus in two ways:
-    * By hiring a cab directly to the campus.
-    * Reach ISBT-43 (Sector 43, Chandigarh) bus stand, take a bus to Police Lines (Ropar) or Ropar Bus Stand (Old or New). From there, you can easily get an autorickshaw to the campus.
+The nearest railway stations are:<br>
+ Ropar Railway Station: Located approximately 7.5 kilometers away. From there, take an autorickshaw to the campus.<br>
 
-    **Note:** If you are arriving late night or early morning, then you might find it difficult to get an autorickshaw. In that case, you can contact us… We will help you.
+ Chandigarh Railway Station: About 59 kilometers from the campus.<br>
 
-    *Google Map link for IIT Ropar main campus:* [link](https://goo.gl/maps/UVg99q5v51rPbMMY7)
-</details>
+ From Chandigarh, you can reach the campus in two ways: <br>
+
+1. By hiring a cab directly to the campus.<br>
+2. By taking a bus:<br>
+         1.1 Reach ISBT-43 (Sector 43, Chandigarh) bus stand.<br>
+         1.2 Take a bus to Police Lines (Shagun Dhaba Bypass) or Ropar Bus Stand (Old or New).<br>
+         1.3 From there, take an autorickshaw to the campus.<br>
+
+ If you are coming from the Bus Stand or Police Lines in Ropar: <br>
+
+Take an autorickshaw to the  Main Campus, IIT Ropar.<br>
+
+  
+  </details>
 
 
 
